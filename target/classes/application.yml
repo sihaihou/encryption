@@ -1,0 +1,10 @@
+server:
+  port: ${port}
+name: (c(b(pro.aaa)b)c)
+port: 8080
+pro:
+  aaa: b
+bbb: c
+ccc: 123456789
+
+    
